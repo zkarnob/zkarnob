@@ -1,5 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Zawadul Karim</h1>
+<br>
+<br>
 <h3 align="center">A passionate developer From Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/02/78/37/47/240_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **zkarnob@gmail.com**
 - <br>
-<br>
+-<br>
 
 
 
