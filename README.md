@@ -8,6 +8,9 @@
 - 🌱 I’m currently learning **React,Rust,Advance Data structure**
 
 - 📫 How to reach me **zkarnob@gmail.com**
+- <br>
+<br>
+
 
 
 <p align="left">
