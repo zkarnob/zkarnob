@@ -5,7 +5,7 @@
   <img alt="coding" width="600" src="https://t4.ftcdn.net/jpg/02/78/37/47/240_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
 </p>
 
-- 🌱 I’m currently learning **React, Rust, Advanced Data Structures**
+- 🌱 I’m currently learning **React, Advanced Data Structures, Machine Learning ,LLM **
 - 📫 How to reach me: **zkarnob@gmail.com**
 
 <br>
